@@ -1,0 +1,15 @@
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\bin\Debug\netstandard2.0\FlexLayoutSample.deps.json
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\bin\Debug\netstandard2.0\FlexLayoutSample.dll
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\bin\Debug\netstandard2.0\ref\FlexLayoutSample.dll
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\bin\Debug\netstandard2.0\FlexLayoutSample.pdb
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\obj\Debug\netstandard2.0\FlexLayoutSample.csproj.AssemblyReference.cache
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\obj\Debug\netstandard2.0\FlexLayoutSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\obj\Debug\netstandard2.0\FlexLayoutSample.AssemblyInfoInputs.cache
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\obj\Debug\netstandard2.0\FlexLayoutSample.AssemblyInfo.cs
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\obj\Debug\netstandard2.0\FlexLayoutSample.csproj.CoreCompileInputs.cache
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\obj\Debug\netstandard2.0\FlexLayoutSample.dll
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\obj\Debug\netstandard2.0\ref\FlexLayoutSample.dll
+C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample\obj\Debug\netstandard2.0\FlexLayoutSample.pdb

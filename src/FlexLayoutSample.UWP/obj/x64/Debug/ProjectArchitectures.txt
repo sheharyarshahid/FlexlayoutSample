@@ -1,1 +1,0 @@
-C:\Users\sshar\Desktop\FlexLayoutSample\FlexLayoutSample.UWP\FlexLayoutSample.UWP.csproj;x64
